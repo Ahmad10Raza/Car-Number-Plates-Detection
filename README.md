@@ -29,7 +29,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install easyocr numpy
-
+```
 ## Installation
 
 1. Clone this repository to your local machine:
@@ -47,7 +47,7 @@ cd Car-Number-Plates-Detection
 2. Run the Python script:
 
 ```bash
-python your_script_name.py
+python number_plate.py
 ```
 
 The script will detect and recognize number plates in the provided image or video frame.
